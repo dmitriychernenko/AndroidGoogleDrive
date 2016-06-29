@@ -4,6 +4,7 @@ D:\code\auth0\AndroidGoogleDrive\AndroidGoogleDrive\obj\Release\android\assets\G
 D:\code\auth0\AndroidGoogleDrive\AndroidGoogleDrive\obj\Release\android\assets\Google.Apis.Core.dll
 D:\code\auth0\AndroidGoogleDrive\AndroidGoogleDrive\obj\Release\android\assets\Google.Apis.dll
 D:\code\auth0\AndroidGoogleDrive\AndroidGoogleDrive\obj\Release\android\assets\Google.Apis.Drive.v3.dll
+D:\code\auth0\AndroidGoogleDrive\AndroidGoogleDrive\obj\Release\android\assets\Google.Apis.Oauth2.v2.dll
 D:\code\auth0\AndroidGoogleDrive\AndroidGoogleDrive\obj\Release\android\assets\Microsoft.Threading.Tasks.dll
 D:\code\auth0\AndroidGoogleDrive\AndroidGoogleDrive\obj\Release\android\assets\Microsoft.Threading.Tasks.Extensions.dll
 D:\code\auth0\AndroidGoogleDrive\AndroidGoogleDrive\obj\Release\android\assets\Newtonsoft.Json.dll

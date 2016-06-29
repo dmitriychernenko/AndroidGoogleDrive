@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android" package="AndroidGoogleDrive.AndroidGoogleDrive" android:versionCode="1" android:versionName="1.0">
-  <!--suppress UsesMinSdkAttributes-->
-  <uses-sdk android:minSdkVersion="11" />
+  <uses-sdk android:minSdkVersion="23" android:targetSdkVersion="23" />
   <application android:label="AndroidGoogleDrive" android:name="android.app.Application" android:allowBackup="true" android:icon="@drawable/icon">
     <activity android:icon="@drawable/icon" android:label="AndroidGoogleDrive" android:name="md57f988911260859fc705ea7170e58ceeb.MainActivity">
       <intent-filter>

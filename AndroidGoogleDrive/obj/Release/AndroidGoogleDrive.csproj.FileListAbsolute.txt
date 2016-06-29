@@ -76,5 +76,9 @@ D:\code\auth0\AndroidGoogleDrive\AndroidGoogleDrive\obj\Release\android\assets\S
 D:\code\auth0\AndroidGoogleDrive\AndroidGoogleDrive\obj\Release\android\assets\System.Xml.dll.mdb
 D:\code\auth0\AndroidGoogleDrive\AndroidGoogleDrive\bin\Release\Java.Interop.dll.mdb
 D:\code\auth0\AndroidGoogleDrive\AndroidGoogleDrive\obj\Release\android\assets\Java.Interop.dll.mdb
+D:\code\auth0\AndroidGoogleDrive\AndroidGoogleDrive\bin\Release\Google.Apis.Oauth2.v2.dll
+D:\code\auth0\AndroidGoogleDrive\AndroidGoogleDrive\bin\Release\Google.Apis.Oauth2.v2.pdb
+D:\code\auth0\AndroidGoogleDrive\AndroidGoogleDrive\bin\Release\Google.Apis.Oauth2.v2.xml
+D:\code\auth0\AndroidGoogleDrive\AndroidGoogleDrive\bin\Release\Google.Apis.Oauth2.v2.dll.mdb
 D:\code\auth0\AndroidGoogleDrive\AndroidGoogleDrive\obj\Release\AndroidGoogleDrive.dll.mdb
 D:\code\auth0\AndroidGoogleDrive\AndroidGoogleDrive\bin\Release\AndroidGoogleDrive.dll.mdb
