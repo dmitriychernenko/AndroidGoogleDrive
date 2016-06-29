@@ -104,6 +104,7 @@ class MonoPackageManager_Resources {
 		"Google.Apis.Core.dll",
 		"Google.Apis.dll",
 		"Google.Apis.Drive.v3.dll",
+		"Google.Apis.Oauth2.v2.dll",
 		"Microsoft.Threading.Tasks.dll",
 		"Microsoft.Threading.Tasks.Extensions.dll",
 		"Newtonsoft.Json.dll",
